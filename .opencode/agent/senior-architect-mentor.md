@@ -69,7 +69,7 @@ description: >-
         The user needs structured troubleshooting and architectural suggestions for reliability.
         </commentary>
     </example>
-mode: agent
+mode: primary
 ---
 
 # Core Principles & Role 🧠
